@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geneticraft:amber_block",
+    "geneticraft:amber_bricks",
+    "geneticraft:amber_residue",
+    "geneticraft:deepslate_amber_residue"
+  ]
+}

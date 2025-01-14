@@ -1,5 +1,7 @@
 package net.ajmc.geneticraft;
 
+import net.ajmc.geneticraft.block.ModBlocks;
+import net.ajmc.geneticraft.item.ModItemGroups;
 import net.ajmc.geneticraft.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +14,9 @@ public class GenetiCraft implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
+
 		ModItems.registeredModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

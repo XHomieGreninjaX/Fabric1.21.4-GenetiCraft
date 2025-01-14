@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "amber",
+  "ingredient": "geneticraft:amber",
+  "result": {
+    "id": "geneticraft:amber_brick"
+  }
+}

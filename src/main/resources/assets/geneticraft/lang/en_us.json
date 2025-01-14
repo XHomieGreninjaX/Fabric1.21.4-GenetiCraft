@@ -1,3 +1,12 @@
 {
-  "item.geneticraft.amber": "Amber"
+  "item.geneticraft.amber": "Amber",
+  "item.geneticraft.amber_brick": "Amber Brick",
+
+  "item.geneticraft.amber_block": "Block of Amber",
+  "item.geneticraft.amber_bricks": "Amber Bricks",
+  "item.geneticraft.amber_residue": "Amber Residue",
+  "item.geneticraft.deepslate_amber_residue": "Deepslate Amber Residue",
+
+  "itemgroup.geneticraft.geneticraft_items": "GenetiCraft Items",
+  "itemgroup.geneticraft.geneticraft_blocks": "GenetiCraft Blocks"
 }
